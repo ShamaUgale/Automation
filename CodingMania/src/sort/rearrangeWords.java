@@ -59,7 +59,7 @@ public class rearrangeWords {
  System.out.println(set.size());
 
 }
-	public boolean isAnagram(String firstWord, String secondWord) {
+	public static boolean isAnagram(String firstWord, String secondWord) {
 	     char[] word1 = firstWord.replaceAll("[\\s]", "").toCharArray();
 	     char[] word2 = secondWord.replaceAll("[\\s]", "").toCharArray();
 	     Arrays.sort(word1);
@@ -77,6 +77,11 @@ public class rearrangeWords {
 		 Set set= new HashSet();
 		 while ((text = r.readLine()) !=null) {
 		       System.out.println(text);
+		       isAnagram("","");
+		       isAnagram("","");
+		       //just adding comments
+		       //judst another line
+		       
 		       
 		       }
 		     
