@@ -19,8 +19,10 @@ import java.util.Set;
 public class rearrangeWords {
 
 	/**
-	 * @param args
-	 * @throws IOException 
+	 * this is 
+	 * jus an
+	 * example
+	 * for comitt
 	 */
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
