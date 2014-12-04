@@ -23,6 +23,11 @@ public class rearrangeWords {
 	 * jus an
 	 * example
 	 * for comitt
+	 * ''
+	 * ''
+	 * 
+	 * ''
+	 * 
 	 */
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
